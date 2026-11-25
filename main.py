@@ -3,7 +3,7 @@
 The clause opens like ordinary boilerplate about accepting the Terms,
 then quietly transfers ownership of the user's left sock to the Company —
 and the repossession is carried out by a trained goose. The joke is the
-deadpan escalation: a sock, a property transfer, and a goose, all in legalese.
+deadpan escalation: a sock, a property transfer, and a goose, all in one clause of legalese.
 
 Pure Python 3.13 standard library only. Deterministic, no network.
 Writes the single entry line to /output/entry.txt (and to output/entry.txt
